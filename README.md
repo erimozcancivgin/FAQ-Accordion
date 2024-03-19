@@ -7,7 +7,7 @@
 Bu projede bir sıkça sorulan sorular bölümü oluşturulmuştur. Oluşturulan bölümlerdeki sorulara tıklandığında sorunun cevabına erişilebilmektedir.
 
 ## Link
-[Proje](https://erimozcancivgin.github.io/FAQ-Accordion/FAQ-Accordion)
+[Proje](https://erimozcancivgin.github.io/FAQ-Accordion/)
 
 ## Görevler
 
